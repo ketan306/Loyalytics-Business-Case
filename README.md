@@ -6,4 +6,4 @@ Loyalytics is an AI and analytics company helping some of the world's leading br
 
 # Tableau Visualization
 
-[View my Tableau Public visualization](https://public.tableau.com/app/profile/ketan.taunk/viz/LoyalyticsCaseStudy_17348935940020/Dashboard1?publish=yes)
+Check out the engaging Tableau dashboard [here](https://public.tableau.com/app/profile/ketan.taunk/viz/LoyalyticsCaseStudy_17348935940020/Dashboard1?publish=yes)

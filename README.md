@@ -42,3 +42,10 @@ Check out the engaging Tableau dashboard [here](https://public.tableau.com/app/p
 - MOM Average TRansaction Value
 - MON Trend: Unit Sold Per Transaction
 - BAsket Size of Each Product Category
+
+# Usage
+
+- Clone [this] repository
+- Open the Loyalytics Data Description.pdf file to understand the dataset and project context.
+
+Feel free to reach out for any inquiries or suggestions.

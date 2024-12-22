@@ -45,7 +45,7 @@ Check out the engaging Tableau dashboard [here](https://public.tableau.com/app/p
 
 # Usage
 
-- Clone [this] repository
+- Clone [this](https://github.com/ketan306/Loyalytics-Business-Case) repository
 - Open the Loyalytics Data Description.pdf file to understand the dataset and project context.
 
 Feel free to reach out for any inquiries or suggestions.

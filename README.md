@@ -7,3 +7,7 @@ Loyalytics is an AI and analytics company helping some of the world's leading br
 # Tableau Visualization
 
 Check out the engaging Tableau dashboard [here](https://public.tableau.com/app/profile/ketan.taunk/viz/LoyalyticsCaseStudy_17348935940020/Dashboard1?publish=yes)
+
+# Contents
+
+Loyalytics Data Description.pdf: Contains information about the Loyalytics Business Case Study, including the dataset, data schema, and context of the company.

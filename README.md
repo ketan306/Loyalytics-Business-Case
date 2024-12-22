@@ -10,12 +10,35 @@ Check out the engaging Tableau dashboard [here](https://public.tableau.com/app/p
 
 # Contents
 
-**Loyalytics Data Description.pdf**: Contains information about the Loyalytics Business Case Study, including the dataset, data schema, and context of the company.
-
-*Loyalytics Data Description.pdf*: Contains information about the Loyalytics Business Case Study, including the dataset, data schema, and context of the company.
-
-***Loyalytics Data Description.pdf***: Contains information about the Loyalytics Business Case Study, including the dataset, data schema, and context of the company.
-
-> **Loyalytics Data Description.pdf**: Contains information about the Loyalytics Business Case Study, including the dataset, data schema, and context of the company.
-
 `Loyalytics Data Description.pdf`: Contains information about the Loyalytics Business Case Study, including the dataset, data schema, and context of the company.
+
+# Tableau Sheets
+
+-Registered or Not
+-Unique Product Categories
+-Total Sales
+-Total Refunds
+-Total Sales Per Store
+-Total Items Refunded
+-Total Freebies Given
+-MOM Trend - Customer Registrations on Program
+-MOM Trend - Customer Registrations on App
+-Monthly Trend - Transactions by Customer Tier
+-Top 10 Customer Nationalities By Number
+-Customers by Nationality
+-Customers based on Current Tier
+-Avg. Total Spend By Reg/Non_Reg Customers
+-Top 5 Items by Transaction
+-Bottom 5 Items by Transaction
+-Most Refunded Items
+-Trend in Transactions
+-Top 10 Trending Product Categories
+-% of Reg. Customers signedup on App
+-Average Time Period: Reg & 1st Transaction
+-Custoers with Missing Nationality
+-% Contri to Total Sales by Reg. Year
+-YoY Customer Retention
+-MON Count: New & Repeat Customer
+-MOM Average TRansaction Value
+-MON Trend: Unit Sold Per Transaction
+-BAsket Size of Each Product Category

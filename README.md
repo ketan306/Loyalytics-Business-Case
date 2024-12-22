@@ -11,3 +11,11 @@ Check out the engaging Tableau dashboard [here](https://public.tableau.com/app/p
 # Contents
 
 **Loyalytics Data Description.pdf**: Contains information about the Loyalytics Business Case Study, including the dataset, data schema, and context of the company.
+
+*Loyalytics Data Description.pdf*: Contains information about the Loyalytics Business Case Study, including the dataset, data schema, and context of the company.
+
+***Loyalytics Data Description.pdf***: Contains information about the Loyalytics Business Case Study, including the dataset, data schema, and context of the company.
+
+> **Loyalytics Data Description.pdf**: Contains information about the Loyalytics Business Case Study, including the dataset, data schema, and context of the company.
+
+`Loyalytics Data Description.pdf`: Contains information about the Loyalytics Business Case Study, including the dataset, data schema, and context of the company.
